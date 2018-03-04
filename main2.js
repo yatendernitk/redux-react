@@ -53,4 +53,5 @@ const testRemoveCounter = () => {
 };
 
 testAddCounter();
+
 console.log('All tests passed.');
